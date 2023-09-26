@@ -1,7 +1,7 @@
 # MLOps-Lab1
 
 
-# Lab
+# Lab-dev1
 
 Introduction to Git
 
